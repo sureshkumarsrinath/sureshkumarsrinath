@@ -1,5 +1,8 @@
-## Hi there 👋
+## Srinath Suresh Kumar
 
+<div align="center">
+    Computer Science guy loves to work on Backend Application Development, Data Engineering and Distributed Systems
+</div>
 <!--
 **infinite-void/infinite-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

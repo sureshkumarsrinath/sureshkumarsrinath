@@ -14,7 +14,14 @@
 - 🎓 Graduated from College of Engineering, Guindy [Anna University], BE in Computer Science and Engineering (Hons) [Class of 2022]
   
 ---
+### Contact
 
+
+---
+### Skills
+
+**Languages**: 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 <!--
 **infinite-void/infinite-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

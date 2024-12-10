@@ -31,7 +31,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![SQL](https://img.shields.io/badge/SQL-plain-lightgrey)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?logo=mysql&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
 

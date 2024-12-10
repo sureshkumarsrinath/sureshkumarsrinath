@@ -32,6 +32,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
 
 
 **Frameworks:**
@@ -56,6 +57,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
 
 
 <!--

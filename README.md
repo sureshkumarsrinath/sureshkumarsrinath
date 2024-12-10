@@ -51,6 +51,8 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0077FF?logo=data:image/svg+xml;base64,<BASE64_ENCODED_LOGO>&logoColor=white)
+
 
 **Tools:**
 

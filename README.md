@@ -8,11 +8,13 @@
 
 - 🏫 Pursuing MS in Computer Science at Georgia Institute of Technology, Atlanta
 - 💼 Former Senior Software Engineer at [Arcesium](https://www.arcesium.com)
-- 💻 Worked as Backend Developer and DevOps at [CEG Tech Forum](https://cegtechforum.in) and [Computer Science and Engineering Association - CEG](https://cseaceg.org.in)
+- 💻 Former Backend Developer and DevOps at [CEG Tech Forum](https://cegtechforum.in)
+- 🖥️ Former Secratary of Courses and DevOps at [Computer Science and Engineering Association - CEG](https://cseaceg.org.in)
 - 🖥️ Interned at [Arcesium](https://www.arcesium.com) and [Healthmed Technologies](https://healthmedtechnologies.com)
-- 🎓 Graduated from College of Engineering, Guindy [Anna University], BE in Computer Science and Engineering (Hons)
+- 🎓 Graduated from College of Engineering, Guindy [Anna University], BE in Computer Science and Engineering (Hons) [Class of 2022]
   
 ---
+
 
 <!--
 **infinite-void/infinite-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

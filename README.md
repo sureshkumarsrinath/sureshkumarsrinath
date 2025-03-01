@@ -16,10 +16,9 @@
 ---
 ### Contact
 
+[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://sureshkumarsrinath.github.io/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinathsureshkumar/)
 [![Email](https://img.shields.io/badge/Email-srinathsk18%40gmail.com-blue?style=flat&logo=gmail)](mailto:srinathsk18@gmail.com)
-[![Website](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://sureshkumarsrinath.github.io/)
-
 
 ---
 ### Skills

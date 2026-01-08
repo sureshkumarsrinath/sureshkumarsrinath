@@ -6,8 +6,8 @@
 
 ---
 
-- 💼 Data Engineering Intern at Tesla, Bay Area
 - 🏫 Pursuing MS in Computer Science at Georgia Institute of Technology, Atlanta
+- 💼 Data Engineering Intern at Tesla (May 2025 - December 2025)
 - 🏫 Graduate Research Assisstant at Physical Internet Center, Georgia Tech  
 - 💼 Former Senior Software Engineer at [Arcesium](https://www.arcesium.com)
 - 💻 Former Backend Developer and DevOps at [CEG Tech Forum](https://cegtechforum.in)

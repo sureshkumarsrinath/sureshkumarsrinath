@@ -1,7 +1,7 @@
 ## Srinath Suresh Kumar
 
 <div align="center">
-    Computer Science guy who loves to work on Backend Application Development, Data Engineering and Distributed Systems
+    Computer Science guy who loves to work on Distributed Systems, Databases, Data Engineering and Backend Application Development
 </div>
 
 ---

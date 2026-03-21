@@ -8,7 +8,7 @@
 
 - 🏫 Pursuing MS in Computer Science at Georgia Institute of Technology, Atlanta
 - 🏫 Graduate Teaching Assisstant at Georgia Tech - [CS 6423](https://faculty.cc.gatech.edu/~jarulraj/courses/6423-s26/) Advanced Database System Implementation (Spring 2026)
-- 💼 Data Engineering Intern at Tesla (May 2025 - December 2025)
+- 💼 Tesla (May 2025 - December 2025)
 - 🏫 Graduate Research Assisstant at Physical Internet Center, Georgia Tech (Spring 2025)
 - 💼 Former Senior Software Engineer at [Arcesium](https://www.arcesium.com)
 - 💻 Former Backend Developer and DevOps at [CEG Tech Forum](https://cegtechforum.in)

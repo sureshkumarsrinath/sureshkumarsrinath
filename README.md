@@ -7,6 +7,7 @@
 ---
 
 - 🏫 Pursuing MS in Computer Science @ Georgia Institute of Technology, Atlanta
+- 🏫 Student Researcher @ Georgia Tech - [Database Group](https://db.cc.gatech.edu/) (Spring 2026)
 - 🏫 Graduate Teaching Assisstant @ Georgia Tech - [CS 6423](https://faculty.cc.gatech.edu/~jarulraj/courses/6423-s26/) Advanced Database System Implementation (Spring 2026)
 - 💼 Intern @ Tesla, Fremont (May 2025 - December 2025)
 - 🏫 Graduate Research Assisstant @ Physical Internet Center, Georgia Tech (Spring 2025)

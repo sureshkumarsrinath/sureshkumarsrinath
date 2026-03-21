@@ -6,14 +6,14 @@
 
 ---
 
-- 🏫 Pursuing MS in Computer Science at Georgia Institute of Technology, Atlanta
-- 🏫 Graduate Teaching Assisstant at Georgia Tech - [CS 6423](https://faculty.cc.gatech.edu/~jarulraj/courses/6423-s26/) Advanced Database System Implementation (Spring 2026)
+- 🏫 Pursuing MS in Computer Science @ Georgia Institute of Technology, Atlanta
+- 🏫 Graduate Teaching Assisstant @ Georgia Tech - [CS 6423](https://faculty.cc.gatech.edu/~jarulraj/courses/6423-s26/) Advanced Database System Implementation (Spring 2026)
 - 💼 Intern @ Tesla, Fremont (May 2025 - December 2025)
-- 🏫 Graduate Research Assisstant at Physical Internet Center, Georgia Tech (Spring 2025)
-- 💼 Former Senior Software Engineer at [Arcesium](https://www.arcesium.com)
-- 💻 Former Backend Developer and DevOps at [CEG Tech Forum](https://cegtechforum.in)
-- 🖥️ Former Secratary of Courses and DevOps at [Computer Science and Engineering Association - CEG](https://cseaceg.org.in)
-- 🖥️ Interned at [Arcesium](https://www.arcesium.com) and [Healthmed Technologies](https://healthmedtechnologies.com)
+- 🏫 Graduate Research Assisstant @ Physical Internet Center, Georgia Tech (Spring 2025)
+- 💼 Former Senior Software Engineer @ [Arcesium](https://www.arcesium.com)
+- 💻 Former Backend Developer and DevOps @ [CEG Tech Forum](https://cegtechforum.in)
+- 🖥️ Former Secratary of Courses and DevOps @ [Computer Science and Engineering Association - CEG](https://cseaceg.org.in)
+- 🖥️ Interned @ [Arcesium](https://www.arcesium.com) and [Healthmed Technologies](https://healthmedtechnologies.com)
 - 🎓 Graduated from College of Engineering, Guindy [Anna University], BE in Computer Science and Engineering (Hons) [Class of 2022]
   
 ---
